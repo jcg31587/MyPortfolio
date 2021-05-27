@@ -7,4 +7,4 @@ This is only the public code that I want to share and is an example to back my r
 
 Thank you for taking a look!
 
-Please note: This is my code other than where sited. You do not have my permission to borrow it or use it. Thank for respecting my hard work. 
+Please note: This is my code other than where sited. You do not have my permission to borrow it or use it. Thank you for respecting my hard work. 
